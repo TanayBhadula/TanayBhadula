@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Profile Banner" width="2000" height="300" />
+<img src="banner.png" alt="Profile Banner" width="1500" height="250" />
 
 ## Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ## I am [Tanay Bhadula](https://github.com/TanayBhadula)
