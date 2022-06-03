@@ -4,9 +4,7 @@ Hi 👋, I am **Tanay Bhadula**, a Computer Science Student.
 
 I am pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.
 
-I am skilled in Web Development using `ReactJs`, `Django`. 
-
-I am also experienced in playing `Cryptic Hunts`, `CTFs`.
+ 
 
 <h2> Things I code with 💻</h2>
 
