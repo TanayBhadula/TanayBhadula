@@ -45,7 +45,7 @@ I am currently pursuing my B.Tech in Computer Science from Vellore Institute of 
 
 
 [linkedin]: https://www.linkedin.com/in/tanay-bhadula/
-[twitter]: https://www.instagram.com/tanaybhadula/
+[twitter]: https://twitter.com/tanaybhadula/
 [mail]: mailto:tanaybhadula2002@gmail.com 
 
 <br />
