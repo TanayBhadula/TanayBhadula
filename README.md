@@ -1,11 +1,12 @@
 <img src="banner.png" alt="Profile Banner" />
-<img src="https://badges.pufler.dev/visits/TanayBhadula/TanayBhadula?style=for-the-badge&label=Profile%20Visits" alt="Profile Visits">
 
-# Hi folks! 👋, 
-# I am **Tanay Bhadula**.
+Hi 👋, I am **Tanay Bhadula**, a Computer Science Student.
 
-I am currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Chennai.
+I am pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.
 
+I am skilled in Web Development using `ReactJs`, `Django`. 
+
+I am also experienced in playing `Cryptic Hunts`, `CTFs`.
 
 <h2> Things I code with 💻</h2>
 
@@ -18,3 +19,5 @@ I am currently pursuing my B.Tech in Computer Science from Vellore Institute of 
 <h2> Contact Me ✉️</h2>
 
 <a href="mailto:tanaybhadula2002@gmail.com"><img src="https://img.shields.io/badge/-GMail-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="GMail" /></a><a href="https://www.linkedin.com/in/tanay-bhadula/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+
+<img src="https://badges.pufler.dev/visits/TanayBhadula/TanayBhadula?style=for-the-badge&label=Profile%20Visits" alt="Profile Visits">
