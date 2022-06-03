@@ -1,13 +1,11 @@
 <img src="banner.png" alt="Profile Banner" />
 <img src="https://badges.pufler.dev/visits/TanayBhadula/TanayBhadula?style=for-the-badge&label=Profile%20Visits" alt="Profile Visits">
 
-Hi 👋, I am **Tanay Bhadula**, a Computer Science Student.
+# Hi folks! 👋, 
+# I am **Tanay Bhadula**.
 
-I am pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.
+I am currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Chennai.
 
-I am skilled in Web Development using `ReactJs`, `Django`. 
-
-I am also experienced in playing `Cryptic Hunts`, `CTFs`.
 
 <h2> Things I code with 💻</h2>
 
