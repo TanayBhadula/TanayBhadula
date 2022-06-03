@@ -1,7 +1,7 @@
  
 ## Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif">
+<img src="silicon-valley.gif" alt="Profile Banner" />
 
 ## I am [Tanay Bhadula](https://github.com/TanayBhadula)
 
