@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Profile Banner" />
-<img src="https://badges.pufler.dev/visits/samankgupta/samankgupta?style=for-the-badge&label=Profile%20Visits" alt="Profile Visits">
+<img src="https://badges.pufler.dev/visits/TanayBhadula/TanayBhadula?style=for-the-badge&label=Profile%20Visits" alt="Profile Visits">
 
 Hi 👋, I am **Tanay Bhadula**, a Computer Science Student.
 
