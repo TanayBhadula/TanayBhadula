@@ -1,8 +1,9 @@
 <img src="banner.png" alt="Profile Banner" />
 
-Hi 👋, I am **Tanay Bhadula**, a Computer Science Student.
+Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+I am [Tanay Bhadula](https://github.com/Tanay Bhadula)
 
-I am pursuing my B.Tech degree from Vellore Institute of Technology, Chennai.
+I am currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Chennai.
 
  
 
