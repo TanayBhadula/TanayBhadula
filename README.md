@@ -38,7 +38,7 @@ I am currently pursuing my B.Tech in Computer Science from Vellore Institute of 
 ### :zap: GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/TejasV58">
+    <a href="https://github.com/TanayBhadula">
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TanayBhadula&count_private=true&show_icons=true&hide_title=true&theme=radical"/>
     <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayBhadula&langs_count=6&layout=compact&theme=radical"/>
     </a>
