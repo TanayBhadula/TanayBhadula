@@ -5,7 +5,6 @@
 
 ## I am [Tanay Bhadula](https://github.com/TanayBhadula)
 
-I am currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Chennai.
 
  ### Connect with me:
 
